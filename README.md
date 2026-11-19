@@ -23,8 +23,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-component-lcxOE8QMNE
+- Live Site URL: https://3columnpreviewcard-abe.netlify.app
 
 ## Author
 
